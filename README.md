@@ -1,7 +1,6 @@
 
-# WEB DEVELOPMENT INTERN
+# WEB DEVELOPMENT INTERN at Bharat 
 # TO CREATE A PERSONAL PORTFOLIO WITH ABOUT ME
-# task 4 ![WhatsApp Image 2023-10-24 at 1 06 24 PM](https://github.com/ajay-shan18/PRODIGY_WD_04/assets/148553946/5fdd8f1a-4b23-48ab-b4a3-0f81ae2ea242)
 # interface ![WhatsApp Image 2023-10-24 at 1 06 28 PM (1)](https://github.com/ajay-shan18/PRODIGY_WD_04/assets/148553946/f83b472b-ddfb-44a8-b089-e20736599899)
 #  contact me ![WhatsApp Image 2023-10-24 at 1 06 26 PM](https://github.com/ajay-shan18/PRODIGY_WD_04/assets/148553946/f2d56d73-eb27-4738-8f71-243cea191fd8)
 # my service ![WhatsApp Image 2023-10-24 at 1 06 27 PM](https://github.com/ajay-shan18/PRODIGY_WD_04/assets/148553946/66fef161-8990-4f9d-bd4f-25b0d6835657)
